@@ -1,6 +1,7 @@
 # For Intel Fortran
 #FC = ifort
-#FCFLAGS = -O2 -mkl
+#FCFLAGS = -O2
+#LDFLAGS = -mkl
 
 # For GFortran
 FC = gfortran
